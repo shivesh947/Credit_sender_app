@@ -1,0 +1,22 @@
+{
+  "name": "ADD CREDIT APPLICATION",
+  "short_name": "CREDIT",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    }
+  ],
+  "start_url": "index.php",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#3f51b5",
+  "description": "Developed by Virekha",
+  "dir": "ltr",
+  "lang": "en-US",
+  "manifest_version": 2,
+  "version" : "1.0"
+}
